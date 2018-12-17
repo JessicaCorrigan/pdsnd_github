@@ -1,15 +1,13 @@
-### Date created
-Include the date you created this project and README file.
+### Project created: 12/17/2018, Readme created: 12/17/2018
 
-### Project Title
-Replace the Project Title
 
-### Description
-Describe what your project is about and what it does
+### Corrigan Programming for Data Science Final Project
 
-### Files used
-Include the files used
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+### Simulating a realistic workflow to refactor previous BikeShare project using Git/Github
 
+
+### corrigan_bikeshare.py, chicago.csv, new_york_city.csv, washington.csv, readme.md
+
+
+### Forked repo from https://github.com/udacity/pdsnd_github
