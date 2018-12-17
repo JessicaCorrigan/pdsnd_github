@@ -240,7 +240,7 @@ def main():
         display_data_filtered(df)
 
 
-        restart = input('\nWould you like to restart the program?'
+        restart = input('\nWould you care to start over?'
                                         ' Enter: \'yes\' / \'no\'. ')
         if restart.lower() != 'yes':
             break
