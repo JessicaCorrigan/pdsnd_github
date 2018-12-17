@@ -1,15 +1,13 @@
-### Date created
+### Project created: 12/17/2018
 Include the date you created this project and README file.
 
-### Project Title
-Replace the Project Title
+### Corrigan PDSND
 
-### Description
-Describe what your project is about and what it does
 
-### Files used
-Include the files used
+### Simulating a realistic workflow to refactor my previous BikeShare project using Git/Github
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
+### corrigan_bikeshare.py, chicago.csv, new_york_city.csv, washington.csv, readme.md
+
+
+### Forked repo from https://github.com/udacity/pdsnd_github
