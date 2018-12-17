@@ -47,7 +47,7 @@ def get_filters():
     # Get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
 
     city = user_input("Please select a city from the following that you would like to explore: Chicago, New York, Washington: ", CITIES)
-    month = user_input("Please enter the month you would like to filter by (Ex: january, february, ..june) or enter \'all\' to view unfilterd data:  ", MONTHS)
+    month = user_input("Please select a month to filter by (Ex: january, february, ..june) or enter \'all\' to view unfilterd data:  ", MONTHS)
     day = user_input("Please input the day of the week you would like to filter by or enter \'all\' to view unfiltered data.  ", DAYS)
 
     print('-'*40)
