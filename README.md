@@ -1,10 +1,10 @@
-### Project created: 12/17/2018
-Include the date you created this project and README file.
-
-### Corrigan PDSND
+### Project created: 12/17/2018, Readme created: 12/17/2018
 
 
-### Simulating a realistic workflow to refactor my previous BikeShare project using Git/Github
+### Corrigan Programming for Data Science Final Project
+
+
+### Simulating a realistic workflow to refactor previous BikeShare project using Git/Github
 
 
 ### corrigan_bikeshare.py, chicago.csv, new_york_city.csv, washington.csv, readme.md
